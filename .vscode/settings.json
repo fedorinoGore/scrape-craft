@@ -25,14 +25,14 @@
     },
     "editor.formatOnSave": true,
     "files.exclude": {
-        "postcss.config.mjs": true,
-        "package-lock.json": true,
-        "eslint.config.mjs": true,
-        ".gitignore": true,
-        "components.json": true,
-        "next-env.d.ts": true,
-        "tsconfig.json": true,
-        "README.md": true
+        "postcss.config.mjs": false,
+        "package-lock.json": false,
+        "eslint.config.mjs": false,
+        ".gitignore": false,
+        "components.json": false,
+        "next-env.d.ts": false,
+        "tsconfig.json": false,
+        "README.md": false
     },
     "editor.fontLigatures": true,
     "editor.bracketPairColorization.enabled": true,
